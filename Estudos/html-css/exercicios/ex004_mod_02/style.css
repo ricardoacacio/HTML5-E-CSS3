@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*Medidas absolutas
+    cm, mm, in(polegadas), px, pt, pc(paica)
+    
+    
+    Medidas relativas
+    em, ex, rem, vw, vh, %
+    
+    Pela W3C [e recomendado usar px e em.
+    16px [e geralmente o tamanho normal da fonte
+    16px geralmente = 1em
+    */
+
+    font-size: 16px;
+}
